@@ -2,6 +2,8 @@
 
 Aplicação web moderna desenvolvida 100% na plataforma **Lovable** (utilizando React, TypeScript, Tailwind CSS e Shadcn UI) com o objetivo de automatizar o processo de adequação de currículos para sistemas ATS (*Applicant Tracking Systems*), utilizando inteligência artificial para matchmaking e otimização baseada em vagas externas.
 
+A aplicação está publicada e acessível em: https://pixel-perfect-playbook-970.lovable.app
+
 ---
 
 ## 🚀 1. O Problema que a Aplicação Resolve
